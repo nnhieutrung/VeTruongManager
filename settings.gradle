@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Ve Truong Manager"
+rootProject.name = "VeTruong"
